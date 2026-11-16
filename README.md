@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="readme-banner.png" alt="STELLAR Email Templates" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=230&section=header&text=STELLAR&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=EMAIL%20TEMPLATES&descSize=20&descAlignY=58&animation=fadeIn" alt="STELLAR Email Templates" width="100%" />
 
-<br /><br />
-
-Responsive HTML email templates for STELLAR campaigns.<br />
-Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook and mobile.
+<a href="https://stellarbd.com/"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Responsive+HTML+email+templates;Product+updates+%26+promotions;Built+for+Sender+%C2%B7+Gmail+%C2%B7+Outlook+%C2%B7+Mobile" alt="Responsive HTML email templates" /></a>
 
 <br />
 
@@ -15,7 +12,8 @@ Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook a
 
 </div>
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Templates
 
@@ -37,18 +35,19 @@ Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook a
   </tr>
 </table>
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Files
 
 | File | Purpose |
 |:--|:--|
 | `STELLAR Logo name beside.png` | Logo, shared by all templates |
-| `readme-banner.png`, `readme-footer.png` | Gradient header and footer for this README |
 | `stellar-hrm-dashboard-update-html-email.html` | HRM Dashboard Update email |
 | `stellar-hrm-dashboard-update.png` | Hero image for that email |
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Add a new template
 
@@ -65,7 +64,8 @@ Each template is a pair of files with the same name:
 4. Add a cell for it to the **Templates** table above, and a row to **Files**.
 5. Send yourself a test before using it in a campaign.
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Image links
 
@@ -80,13 +80,15 @@ Spaces in file names must be written as `%20`, e.g. `STELLAR%20Logo%20name%20bes
 > [!IMPORTANT]
 > Keep this repository **public** and never rename or delete an image a sent email uses. Emails already in inboxes still load it from here.
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Sending with Sender
 
 Create a campaign → choose the **HTML editor** → paste the template's HTML → replace `{{unsubscribe_link}}` with Sender's unsubscribe tag → send a test → send.
 
-<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=3&section=header" width="100%" alt="" />
 
 ## Brand
 
@@ -103,7 +105,6 @@ Create a campaign → choose the **HTML editor** → paste the template's HTML �
 <br />
 
 <div align="center">
-<img src="readme-footer.png" alt="stellarbd.com · Chattogram, Bangladesh · 01810030762" width="100%" />
-<br />
-<sub>© STELLAR. All Rights Reserved.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=130&section=footer&text=stellarbd.com&fontSize=22&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" alt="stellarbd.com" width="100%" />
+<sub>© STELLAR · 1005/2/1872 CDA Avenue, East Nasirabad, Chattogram · 01810030762</sub>
 </div>

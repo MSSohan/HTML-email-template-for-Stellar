@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="STELLAR%20Logo%20name%20beside.png" alt="STELLAR" width="220" />
+<img src="readme-banner.png" alt="STELLAR Email Templates" width="100%" />
 
-# Email Templates
+<br /><br />
 
 Responsive HTML email templates for STELLAR campaigns.<br />
 Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook and mobile.
 
-[Website](https://stellarbd.com/) · [Facebook](https://www.facebook.com/stlrbd) · [WhatsApp](https://wa.me/8801810030760)
+<br />
+
+<a href="https://stellarbd.com/"><img src="https://img.shields.io/badge/Website-stellarbd.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.facebook.com/stlrbd"><img src="https://img.shields.io/badge/Facebook-stlrbd-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://wa.me/8801810030760"><img src="https://img.shields.io/badge/WhatsApp-Chat-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
@@ -40,6 +44,7 @@ Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook a
 | File | Purpose |
 |:--|:--|
 | `STELLAR Logo name beside.png` | Logo, shared by all templates |
+| `readme-banner.png`, `readme-footer.png` | Gradient header and footer for this README |
 | `stellar-hrm-dashboard-update-html-email.html` | HRM Dashboard Update email |
 | `stellar-hrm-dashboard-update.png` | Hero image for that email |
 
@@ -98,5 +103,7 @@ Create a campaign → choose the **HTML editor** → paste the template's HTML �
 <br />
 
 <div align="center">
-<sub>© STELLAR · 1005/2/1872 CDA Avenue, East Nasirabad, Chattogram · 01810030762</sub>
+<img src="readme-footer.png" alt="stellarbd.com · Chattogram, Bangladesh · 01810030762" width="100%" />
+<br />
+<sub>© STELLAR. All Rights Reserved.</sub>
 </div>

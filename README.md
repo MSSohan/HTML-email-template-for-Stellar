@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo/stellar-logo.png" alt="STELLAR" width="220" />
+<img src="STELLAR%20Logo%20name%20beside.png" alt="STELLAR" width="220" />
 
 # Email Templates
 
@@ -18,8 +18,8 @@ Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook a
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="templates/2026-11-hrm-dashboard-update/">
-        <img src="templates/2026-11-hrm-dashboard-update/preview.png" alt="HRM Dashboard Update" width="220" />
+      <a href="stellar-hrm-dashboard-update-html-email.html">
+        <img src="stellar-hrm-dashboard-update.png" alt="HRM Dashboard Update" width="220" />
       </a>
       <br /><b>HRM Dashboard Update</b>
       <br /><sub>Product update · Nov 2026</sub>
@@ -35,25 +35,30 @@ Built for [Sender](https://www.sender.net/) and compatible with Gmail, Outlook a
 
 <br />
 
-## Structure
+## Files
 
-```
-assets/                      shared logo and icons, used by every template
-templates/
-  └── YYYY-MM-name/
-        ├── index.html       the email
-        ├── preview.png      thumbnail for this README
-        └── images/          images used only by this email
-```
+| File | Purpose |
+|:--|:--|
+| `STELLAR Logo name beside.png` | Logo, shared by all templates |
+| `stellar-hrm-dashboard-update-html-email.html` | HRM Dashboard Update email |
+| `stellar-hrm-dashboard-update.png` | Hero image for that email |
 
 <br />
 
 ## Add a new template
 
-1. Copy an existing folder in `templates/` and rename it `YYYY-MM-name` (e.g. `2026-12-year-end-offer`).
-2. Edit `index.html`, and put any new images in its `images/` folder.
-3. Add a `preview.png`, and add a cell for it to the **Templates** table above.
-4. Send yourself a test before using it in a campaign.
+Each template is a pair of files with the same name:
+
+```
+<template-name>-html-email.html     the email
+<template-name>.png                 its hero image (also the preview above)
+```
+
+1. Copy `stellar-hrm-dashboard-update-html-email.html` and rename it, e.g. `stellar-year-end-offer-html-email.html`.
+2. Upload its hero image with the matching name, e.g. `stellar-year-end-offer.png`.
+3. In the new HTML, update the content, links and the hero image URL.
+4. Add a cell for it to the **Templates** table above, and a row to **Files**.
+5. Send yourself a test before using it in a campaign.
 
 <br />
 
@@ -62,8 +67,10 @@ templates/
 Emails need direct image URLs, so use GitHub's raw format:
 
 ```
-https://raw.githubusercontent.com/MSSohan/HTML-email-template-for-Stellar/main/<path>
+https://raw.githubusercontent.com/MSSohan/HTML-email-template-for-Stellar/main/<file-name>
 ```
+
+Spaces in file names must be written as `%20`, e.g. `STELLAR%20Logo%20name%20beside.png`. Social icons load from [Icons8](https://icons8.com/).
 
 > [!IMPORTANT]
 > Keep this repository **public** and never rename or delete an image a sent email uses. Emails already in inboxes still load it from here.
@@ -72,7 +79,7 @@ https://raw.githubusercontent.com/MSSohan/HTML-email-template-for-Stellar/main/<
 
 ## Sending with Sender
 
-Create a campaign → choose the **HTML editor** → paste `index.html` → replace `{{unsubscribe_link}}` with Sender's unsubscribe tag → send a test → send.
+Create a campaign → choose the **HTML editor** → paste the template's HTML → replace `{{unsubscribe_link}}` with Sender's unsubscribe tag → send a test → send.
 
 <br />
 

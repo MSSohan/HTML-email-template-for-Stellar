@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F44,50:1F6FEB,100:12B5A5&height=230&section=header&text=STELLAR&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=EMAIL%20TEMPLATES&descSize=20&descAlignY=58&animation=fadeIn" alt="STELLAR Email Templates" width="100%" />
+<img src="readme-header.svg" alt="STELLAR Email Templates" width="100%" />
 
 <a href="https://stellarbd.com/"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Responsive+HTML+email+templates;Product+updates+%26+promotions;Built+for+Sender+%C2%B7+Gmail+%C2%B7+Outlook+%C2%B7+Mobile" alt="Responsive HTML email templates" /></a>
 
@@ -43,6 +43,7 @@
 | File | Purpose |
 |:--|:--|
 | `STELLAR Logo name beside.png` | Logo, shared by all templates |
+| `readme-header.svg` | Animated header for this README |
 | `stellar-hrm-dashboard-update-html-email.html` | HRM Dashboard Update email |
 | `stellar-hrm-dashboard-update.png` | Hero image for that email |
 
